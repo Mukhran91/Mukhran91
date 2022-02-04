@@ -25,7 +25,7 @@
     <a href="https://www.kaggle.com/davidshainidze">
         <img alt="Kaggle"
              src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
-    <a href="https://discord.gg/#5604">
+    <a href="https://discord.gg/Mukhran91#5604">
         <img alt="Discord"
              src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
     <a href="https://www.facebook.com/dsha256">
