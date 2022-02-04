@@ -24,15 +24,15 @@
 
 ## 📊 Github stats
 <p>
-    <a align="center" href="https://github-readme-stats.vercel.app/api?username=dsha256&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="dsha256's Github Stats"
+    <a align="center" href="https://github-readme-stats.vercel.app/api?username=Mukhran91&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="Mukhran91's Github Stats"
                     src="https://github-readme-stats.vercel.app/api?username=Mukhran91&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
   <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mukhran91&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
-    <img alt="dsha256's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mukhran91&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+    <img alt="Mukhran91's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mukhran91&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 </p>
 
 <p>
   <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dsha256&theme=monokai&column=8&no-frame=true&no-bg=true">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mukhran91&theme=monokai&column=8&no-frame=true&no-bg=true">
   </a>
 </p>
 
